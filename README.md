@@ -1,7 +1,7 @@
 ishubhamsingh.github.io/portfolio
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for Shubham Singh's Portfolio
 
 ## How to get your own?
 1. Fork the repo
