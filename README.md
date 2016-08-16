@@ -1,4 +1,4 @@
-ishubhamsingh.github.io/portfolio
+portfolio.ishubhamsingh.com
 ======================
 
 Github repo for Shubham Singh's Portfolio
